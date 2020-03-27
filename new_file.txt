@@ -2,3 +2,4 @@ git text
 Hello world
 this edit is from remote
 this line is added in first_branch_from_master
+this line is worte in second_branch_from_master
